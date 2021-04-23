@@ -14,5 +14,3 @@ for shop, products in shopping_list.items():
     number_of_products.append(len(products))
 print("W sumie kupuję " + str(sum(number_of_products))+" produktów")
 
-print("zadanie zakończone!........test")
-print("a może marchewka?"
